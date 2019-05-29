@@ -1,0 +1,30 @@
+{
+    "rangers": [
+      {
+        "id": 1,
+        "name": "Tommy",
+        "color": "white"
+      },
+      {
+        "id": 2,
+        "name": "Kimberly",
+        "color": "pink"
+      },
+      {
+        "id": 3,
+        "name": "Trini",
+        "color": "yellow"
+      },
+      {
+        "id": 4,
+        "name": "Billy",
+        "color": "blue"
+      },
+      {
+        "id": 5,
+        "name": "Jason",
+        "color": "red"
+      }
+    ]
+    
+  }
